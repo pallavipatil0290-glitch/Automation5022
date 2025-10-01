@@ -1,6 +1,6 @@
 This is my project data..
-<<<<<<< HEAD
+
 This is change made by master...
-=======
+
 This is new branch created as tester1...
->>>>>>> tester1
+
