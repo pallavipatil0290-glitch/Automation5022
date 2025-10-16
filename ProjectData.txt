@@ -2,5 +2,13 @@ This is my project data..
 
 This is change made by master...
 
-This is new branch created as tester1...
+/*
 
+This Assignment include selenium WebDriver, Docker for Grid, Git and 
+Git hub along with Jenkins practice
+Write Automation script for Amazon application using docker 
+test it on three different browsers like chrome, Firefox and edge 
+with selenium grid setup and push your code on git hub and 
+trigger job in Jenkins to print the result
+
+*/
